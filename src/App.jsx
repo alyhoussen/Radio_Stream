@@ -1,3 +1,4 @@
+//Not a very usefull comment, I just want to PR bru... Accept my PR plizz, I ll buuy you a candy :)
 import { Routes, Route } from "react-router-dom";
 import { Suspense, lazy, useEffect } from "react";
 import { GloBalProvider } from "./context/GlobalContext.jsx";
